@@ -21,3 +21,39 @@ criaCartao(
     'Como se diz unha em inglês?',
     'Unha em inglês é nail'
 )
+
+criaCartao(
+    'Química',
+    'Quantos níveis tem o diagrama de Lines Pauling?',
+    '7 níveis'
+)
+
+criaCartao(
+    'Matemática',
+    'Qual é o valor de PI?',
+    '3,14'
+)
+
+criaCartao(
+    'História',
+    'Quando aconteceu o Holocausto',
+    '1933'
+)
+
+criaCartao(
+    'Educação financeira',
+    'No método 50,30,20 qual parte do salário fica para lazer?',
+    'Os 30%'
+)
+
+criaCartao(
+    'Língua portuguesa',
+    'Qual modelo de redação usado no enem?',
+    'Dissertativa-argumentativa'
+)
+
+criaCartao(
+    'Biotecnologia',
+    'O que estuda a Biotecnologia amarela?',
+    'Estuda e aplica técnicas para melhorar a produção e qualidade dos alimentos, com foco em nutrição, produção e segurança alimentar'
+)
